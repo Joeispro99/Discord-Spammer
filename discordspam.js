@@ -58,4 +58,4 @@ client.on('message', (receivedMessage) => {
 // https://discordapp.com/developers/applications/
 // Click on your application -> Bot -> Token -> "Click to Reveal Token"
 
-client.login("NzYzMDE2MDUwNTEzNDEyMTI3.X3xkEg.v-oxIBpZr-GBJ-oEge1OZoCLLzM")
+client.login("NzYzMDE2MDUwNTEzNDEyMTI3.X3xkEg.dkY_AyakqfB7W5gFytnVqq9czPs")
